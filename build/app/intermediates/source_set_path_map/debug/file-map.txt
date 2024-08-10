@@ -1,0 +1,12 @@
+com.example.predicther.app-jetified-window-java-1.0.0-beta04-0 /Users/uditbhardwaj/.gradle/caches/transforms-3/26320204602acb0eed11bdc07185739a/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.predicther.app-jetified-annotation-experimental-1.1.0-1 /Users/uditbhardwaj/.gradle/caches/transforms-3/2e48576f8f6979b5b39a0488028a2221/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.predicther.app-jetified-window-1.0.0-beta04-2 /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/res
+com.example.predicther.app-core-1.6.0-3 /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/res
+com.example.predicther.app-debug-4 /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/res
+com.example.predicther.app-main-5 /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/res
+com.example.predicther.app-pngs-6 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/generated/res/pngs/debug
+com.example.predicther.app-resValues-7 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/generated/res/resValues/debug
+com.example.predicther.app-rs-8 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/generated/res/rs/debug
+com.example.predicther.app-mergeDebugResources-9 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.predicther.app-mergeDebugResources-10 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.predicther.app-merged_res-11 /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/app/intermediates/merged_res/debug

@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uditbhardwaj/.gradle/caches/transforms-3/5068a3d7335c107e63e79231a2abc6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uditbhardwaj/.gradle/caches/transforms-3/5068a3d7335c107e63e79231a2abc6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:flutter_native_splash] /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/26320204602acb0eed11bdc07185739a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/01ed2ac047913540defd94b7b41230bc/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7c733d92bc2435d7d6b7251b7533e1ab/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/bf7bc0b9b9ce7d248bc429165d4114c8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/f5d64ab54e6e68e7975cdbecc86674b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/4df035cd3a5cc49ef99ed07cd9b29780/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7a9cb59db085623ebdfc1467ba52992d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/78bff5448954fb6f3c3b89c99804b00c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/b8ca651d493663fc27eaa022dfbdf978/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/c3d684089b2a141a0828176f9112990a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/8d9b531a8dd96f9a5dd577d314f99715/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/805a840fdaeef32895e87bbcf3cf721d/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uditbhardwaj/.gradle/caches/transforms-3/5068a3d7335c107e63e79231a2abc6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/6c9eab2d4acee0ede31b80cd9102b1da/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/2e48576f8f6979b5b39a0488028a2221/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_native_splash] /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/uditbhardwaj/AndroidStudioProjects/predicther/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/26320204602acb0eed11bdc07185739a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/26320204602acb0eed11bdc07185739a/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/01ed2ac047913540defd94b7b41230bc/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/01ed2ac047913540defd94b7b41230bc/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7c733d92bc2435d7d6b7251b7533e1ab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7c733d92bc2435d7d6b7251b7533e1ab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/bf7bc0b9b9ce7d248bc429165d4114c8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/bf7bc0b9b9ce7d248bc429165d4114c8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/f5d64ab54e6e68e7975cdbecc86674b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/f5d64ab54e6e68e7975cdbecc86674b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/4df035cd3a5cc49ef99ed07cd9b29780/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/4df035cd3a5cc49ef99ed07cd9b29780/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/fe43d7cd5b205ec29dfaaec3a6bc3076/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7a9cb59db085623ebdfc1467ba52992d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/7a9cb59db085623ebdfc1467ba52992d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/78bff5448954fb6f3c3b89c99804b00c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/78bff5448954fb6f3c3b89c99804b00c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/b8ca651d493663fc27eaa022dfbdf978/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/b8ca651d493663fc27eaa022dfbdf978/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/c3d684089b2a141a0828176f9112990a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/c3d684089b2a141a0828176f9112990a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/8d9b531a8dd96f9a5dd577d314f99715/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/8d9b531a8dd96f9a5dd577d314f99715/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/805a840fdaeef32895e87bbcf3cf721d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/805a840fdaeef32895e87bbcf3cf721d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uditbhardwaj/.gradle/caches/transforms-3/5068a3d7335c107e63e79231a2abc6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/uditbhardwaj/.gradle/caches/transforms-3/5068a3d7335c107e63e79231a2abc6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/6c9eab2d4acee0ede31b80cd9102b1da/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/6c9eab2d4acee0ede31b80cd9102b1da/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/2e48576f8f6979b5b39a0488028a2221/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/uditbhardwaj/.gradle/caches/transforms-3/2e48576f8f6979b5b39a0488028a2221/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/uditbhardwaj/AndroidStudioProjects/predicther/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/uditbhardwaj/.gradle/caches/transforms-3/7bfe104f3914eb5daf6e97841366dfc0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
