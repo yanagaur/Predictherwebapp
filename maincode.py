@@ -1,4 +1,3 @@
-
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
@@ -89,5 +88,6 @@ def noreport():
     except Exception as e:
         return jsonify({'error': str(e)})
 
-if __name__ == '__main__':
-    app.run(debug=True, port=8989)
+# Vercel serverless function handler
+def handler(request, response):
+    return app(request, response)
